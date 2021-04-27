@@ -4,7 +4,7 @@ dogs-vs-cats-classification/*.zip
 MNIST-classification/MNIST_data/
 ner/data/
 ner/glove.6B*.txt
-security_news/DataSet/
+security_news/DataSet/*.csv
 security_news/Freebuf.csv
 Tensorflow-Deep-Neural-Networks-master_2/
 
