@@ -1,9 +1,10 @@
-./cifar-10-batches-py/data_batch_*
-./dogs-vs-cats-classification/data/
-./MNIST-classification/MNIST_data/
-./ner/data/
-./ner/glove.6B*.txt
-./security_news/DataSet/
-./Tensorflow-Deep-Neural-Networks-master_2/
+cifar-10-batches-py/data_batch_*
+dogs-vs-cats-classification/data/
+dogs-vs-cats-classification/*.zip
+MNIST-classification/MNIST_data/
+ner/data/
+ner/glove.6B*.txt
+security_news/DataSet/
+Tensorflow-Deep-Neural-Networks-master_2/
 
 
